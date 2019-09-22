@@ -2,11 +2,6 @@
 
 silakan tuliskan nama di sini dengan format \[Nama Lengkap\]\(url github\)
 
-<<<<<<< HEAD
-- [Samsul Ma'arif](https://github.com/samsulmaarif)
-
-- [Abizar Nazha Rizky](https://github.com/AbiNazha)
-=======
 - [x] [Samsul Ma'arif](https://github.com/samsulmaarif)
 - [X] [Cahyadi Setia Phanatagama](https://github.com/phanatagama)
 - [ ] [Wisnu Dewa Saputra](https://github.com/WisnuDs)
@@ -31,4 +26,4 @@ silakan tuliskan nama di sini dengan format \[Nama Lengkap\]\(url github\)
 - [X] [nauval achmad yusufa](https://github.com/nauval123)
 - [X] [Lutfia Dewana](https://github.com/lutfiadewana)
 - [X] [Yuli Puspita Dewi](https://github.com/Yuliabcd)
->>>>>>> 1b86d6200710ee30aeb78ff9bf5e1ea6542a560b
+
